@@ -1,0 +1,5 @@
+Item-based collaborative filtering
+
+Implemented movie-recommendation algorithm using cosine similarity model.
+@Given: A movieID
+@Returns: Movie names which are similar to the given movie based on user ratings.
