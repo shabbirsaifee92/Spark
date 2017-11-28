@@ -1,2 +1,5 @@
 Implemented Breadth First Search Algorithm to find the shortest path in an undirected unweighted graph.
 The purpose of the program is to find the degree of separation between two super heroes of marvel.
+
+This is the basic implementation of the BFS algorithm in a distributed architecture. 
+More advanced implementation can be done using GraphX library.
