@@ -3,3 +3,8 @@ Item-based collaborative filtering
 Implemented movie-recommendation algorithm using cosine similarity model.
 @Given: A movieID
 @Returns: Movie names which are similar to the given movie based on user ratings.
+
+Possible improvement on existing algorithm:
+1. Can filter out the data based on low ratings earlier in the transformation.
+2. Higher similarity score to movie pair that belongs to the same genre.
+
